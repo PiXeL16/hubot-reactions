@@ -1,7 +1,7 @@
 {
   "name": "hubot-reactions",
   "version": "1.0.0",
-  "description": "Hubot shows awesome reactions GIFs when you congratulate your teammates",
+  "description": "Hubot shows awesome reactions GIFs to compliment your teammates",
   "main": "index.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

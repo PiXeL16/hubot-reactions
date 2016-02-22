@@ -1,7 +1,7 @@
 # hubot-reactions
 ![hubot-reactions](https://i.imgur.com/Ie17FZ6.gif)
 
-More than 100 awesome reactions GIFs to congratulate your teammates
+More than 100 awesome reactions GIFs to compliment your teammates
 
 ## Instalation
 ```
