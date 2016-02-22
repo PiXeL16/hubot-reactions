@@ -86,5 +86,5 @@ module.exports = (robot) ->
   robot.hear /rockstar/i, (msg) ->
     msg.send "Rockstar! " + msg.random bossimages
 
-  robot.hear /badass /i, (msg) ->
+  robot.hear /badass/i, (msg) ->
     msg.send "Ultra-cool motherf*er! " + msg.random bossimages
