@@ -1,13 +1,13 @@
-# hubot-reactions
-![hubot-reactions](https://i.imgur.com/Ie17FZ6.gif)
+# hubot-reactions-gifs
+![hubot-reactions-gifs](https://i.imgur.com/Ie17FZ6.gif)
 
 More than 100 awesome reactions GIFs to compliment your teammates
 
 ## Instalation
 ```
-$ npm install --save hubot-reactions
+$ npm install --save hubot-reactions-gifs
 ```
-Add `["hubot-reactions"]` to your `external-scripts.json` file.
+Add `["hubot-reactions-gifs"]` to your `external-scripts.json` file.
 
 
 ## Sample Interaction

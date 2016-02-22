@@ -1,5 +1,5 @@
 {
-  "name": "hubot-reactions",
+  "name": "hubot-reactions-gifs",
   "version": "1.0.0",
   "description": "Hubot shows awesome reactions GIFs to compliment your teammates",
   "main": "index.coffee",
