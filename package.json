@@ -1,0 +1,30 @@
+{
+  "name": "hubot-reactions",
+  "version": "1.0.0",
+  "description": "Hubot shows awesome reactions GIFs when you congratulate your teammates",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiXeL16/hubot-reactions.git"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "keywords": [
+    "hubot",
+    "reactions",
+    "reaction",
+    "hubot-script",
+    "gifs",
+    "awesome"
+  ],
+  "author": "Chris Jimenez <cjimenez16@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiXeL16/hubot-reactions/issues"
+  },
+  "homepage": "https://github.com/PiXeL16/hubot-reactions#readme"
+}
